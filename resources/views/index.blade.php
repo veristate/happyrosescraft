@@ -90,6 +90,62 @@
         </div>
     </section><!-- End About Section -->
 
+    <!-- Our Product Section -->
+    <section id="ourproduct" class="ourproduct">
+        <div class="container">
+            <div class="col-md-12 ">
+                <div class="titlepage">
+                   <h2>Produk Kami</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="card" style="width: 18rem;">
+                        <img src="assets/img/portfolio/portfolio-3.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h4>Judul Product</h4>
+                          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card" style="width: 18rem;">
+                        <img src="assets/img/portfolio/portfolio-3.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h4>Judul Product</h4>
+                          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card" style="width: 18rem;">
+                        <img src="assets/img/portfolio/portfolio-3.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h4>Judul Product</h4>
+                          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card" style="width: 18rem;">
+                        <img src="assets/img/portfolio/portfolio-3.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h4>Judul Product</h4>
+                          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <a href="index.html"><button class="btn btn-sm btn-primary mt-3">Selengkapnya</button></a>
+                </div>  
+            </div>
+        </div>
+    </section>
+
+    <!--End Our Product Section  -->
+    
 
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
@@ -147,6 +203,88 @@
 
         </div>
     </section><!-- End Services Section -->
+
+    {{-- Section Contact Us  --}}
+    <section>
+        <div class="container second-portion">
+            <div class="col-md-12 ">
+                <div class="titlepage">
+                   <h2>Kontak Kami</h2>
+                </div>
+            </div>
+            <div class="row">
+                <!-- Boxes de Acoes -->
+                <div class="col-md-3">
+                    <div class="box">							
+                        <div class="icon">
+                            <div class="image"><i class="fa fa-envelope" aria-hidden="true"></i></div>
+                            <div class="info">
+                                <h3 class="title mt-3">MAIL & WEBSITE</h3>
+                                <p>
+                                    <i class="fa fa-envelope" aria-hidden="true"></i> &nbsp gondhiyahardik6610@gmail.com
+                                    <br>
+                                    <br>
+                                    <i class="fa fa-globe" aria-hidden="true"></i> &nbsp www.hardikgondhiya.com
+                                </p>
+                            
+                            </div>
+                        </div>
+                        <div class="space"></div>
+                    </div> 
+                </div>
+                    
+                <div class="col-md-3">
+                    <div class="box">							
+                        <div class="icon">
+                            <div class="image"><i class="fa fa-mobile" aria-hidden="true"></i></div>
+                            <div class="info">
+                                <h3 class="title mt-3">CONTACT</h3>
+                                <p>
+                                    <i class="fa fa-mobile" aria-hidden="true"></i> &nbsp (+91)-9624XXXXX
+                                    <br>
+                                    <br>
+                                    <i class="fa fa-mobile" aria-hidden="true"></i> &nbsp  (+91)-756706XXXX
+                                </p>
+                            </div>
+                        </div>
+                        <div class="space"></div>
+                    </div> 
+                </div>
+                    
+                <div class="col-md-3">
+                    <div class="box">							
+                        <div class="icon">
+                            <div class="image"><i class="fa fa-map-marker" aria-hidden="true"></i></div>
+                            <div class="info">
+                                <h3 class="title mt-3">ADDRESS</h3>
+                                <p>
+                                     <i class="fa fa-map-marker" aria-hidden="true"></i> &nbsp 15/3 Junction Plot 
+                                     "Shree Krishna Krupa", Rajkot - 360001.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="space"></div>
+                    </div> 
+                </div>
+                <div class="col-md-3">
+                    <div class="box">							
+                        <div class="icon">
+                            <div class="image"><i class="fa fa-map-marker" aria-hidden="true"></i></div>
+                            <div class="info">
+                                <h3 class="title mt-3">ADDRESS</h3>
+                                <p>
+                                     <i class="fa fa-map-marker" aria-hidden="true"></i> &nbsp 15/3 Junction Plot 
+                                     "Shree Krishna Krupa", Rajkot - 360001.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="space"></div>
+                    </div> 
+                </div>		  		    
+                <!-- /Boxes de Acoes -->
+    </section>
+    {{-- End Section Contact Us  --}}
+
 
     <!-- ======= Portfolio Section ======= -->
     <section id="portfolio" class="portfolio">
@@ -300,6 +438,8 @@
 
         </div>
     </section><!-- End Portfolio Section -->
+
+    
 
 </main><!-- End #main -->
 @endsection
