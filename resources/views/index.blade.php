@@ -60,11 +60,14 @@
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
         <div class="container">
-
+            <div class="col-md-12 ">
+                <div class="titlepage">
+                   <h2>Tentang Kami</h2>
+                </div>
+            </div>
             <div class="row content">
                 <div class="col-lg-6">
-                    <h2>Eum ipsam laborum deleniti velitena</h2>
-                    <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assum perenda sruen jonee trave</h3>
+                    <img src="assets/img/slide/slide-2.jpg" alt="" style="width: 85%">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0">
                     <p>
@@ -87,44 +90,15 @@
         </div>
     </section><!-- End About Section -->
 
-    <!-- ======= Clients Section ======= -->
-    <section id="clients" class="clients section-bg">
-        <div class="container">
-
-            <div class="row">
-
-                <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                    <img src="assets/img/clients/client-1.png" class="img-fluid" alt="">
-                </div>
-
-                <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                    <img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
-                </div>
-
-                <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                    <img src="assets/img/clients/client-3.png" class="img-fluid" alt="">
-                </div>
-
-                <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                    <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
-                </div>
-
-                <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                    <img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
-                </div>
-
-                <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                    <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
-                </div>
-
-            </div>
-
-        </div>
-    </section><!-- End Clients Section -->
 
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
         <div class="container">
+            <div class="col-md-12 ">
+                <div class="titlepage">
+                   <h2>Mengapa Harus Kami?</h2>
+                </div>
+            </div>
 
             <div class="row">
                 <div class="col-md-6">
@@ -177,6 +151,11 @@
     <!-- ======= Portfolio Section ======= -->
     <section id="portfolio" class="portfolio">
         <div class="container">
+            <div class="col-md-12 ">
+                <div class="titlepage">
+                   <h2>Our Galery</h2>
+                </div>
+            </div>
 
             <div class="row">
                 <div class="col-lg-12 d-flex justify-content-center">
