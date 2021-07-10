@@ -101,40 +101,42 @@
             <div class="row">
                 <div class="col-md-3">
                     <div class="card" style="width: 18rem;">
-                        <img src="assets/img/portfolio/portfolio-3.jpg" class="card-img-top" alt="...">
+                        <img src="assets/img/A01_wisuda.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4>Judul Product</h4>
+                            <h4>Quiling Art Wisuda</h4>
                           <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3">
                     <div class="card" style="width: 18rem;">
-                        <img src="assets/img/portfolio/portfolio-3.jpg" class="card-img-top" alt="...">
+                        <img src="assets/img/A01_mahar.jpg" class="card-img-top" >
+                        {{-- style="width: 80%;margin-left: auto;margin-right: auto ;" --}}
                         <div class="card-body">
-                            <h4>Judul Product</h4>
+                            <h4>Quiling Art Mahar</h4>
                           <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3">
                     <div class="card" style="width: 18rem;">
-                        <img src="assets/img/portfolio/portfolio-3.jpg" class="card-img-top" alt="...">
+                        <img src="assets/img/C01_bahan.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4>Judul Product</h4>
+                            <h4>Bahan Craft</h4>
                           <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3">
                     <div class="card" style="width: 18rem;">
-                        <img src="assets/img/portfolio/portfolio-3.jpg" class="card-img-top" alt="...">
+                        <img src="assets/img/B01_birthday.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h4>Judul Product</h4>
+                            <h4>Quiling Art Birthday</h4>
                           <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                     </div>
                 </div>
+                
             </div>
             <div class="row">
                 <div class="col-md-12 text-center">
@@ -219,12 +221,10 @@
                         <div class="icon">
                             <div class="image"><i class="fa fa-envelope" aria-hidden="true"></i></div>
                             <div class="info">
-                                <h3 class="title mt-3">MAIL & WEBSITE</h3>
+                                <h3 class="title mt-3">E-MAIL</h3>
                                 <p>
                                     <i class="fa fa-envelope" aria-hidden="true"></i> &nbsp gondhiyahardik6610@gmail.com
-                                    <br>
-                                    <br>
-                                    <i class="fa fa-globe" aria-hidden="true"></i> &nbsp www.hardikgondhiya.com
+                            
                                 </p>
                             
                             </div>
@@ -236,14 +236,11 @@
                 <div class="col-md-3">
                     <div class="box">							
                         <div class="icon">
-                            <div class="image"><i class="fa fa-mobile" aria-hidden="true"></i></div>
+                            <div class="image"><i class="fas fa-phone-alt" aria-hidden="true"></i></div>
                             <div class="info">
                                 <h3 class="title mt-3">CONTACT</h3>
                                 <p>
-                                    <i class="fa fa-mobile" aria-hidden="true"></i> &nbsp (+91)-9624XXXXX
-                                    <br>
-                                    <br>
-                                    <i class="fa fa-mobile" aria-hidden="true"></i> &nbsp  (+91)-756706XXXX
+                                    <i class="fas fa-phone-alt" aria-hidden="true"></i> 085743591189
                                 </p>
                             </div>
                         </div>
@@ -254,12 +251,11 @@
                 <div class="col-md-3">
                     <div class="box">							
                         <div class="icon">
-                            <div class="image"><i class="fa fa-map-marker" aria-hidden="true"></i></div>
+                            <div class="image"><i class="fab fa-instagram" aria-hidden="true"></i></div>
                             <div class="info">
-                                <h3 class="title mt-3">ADDRESS</h3>
+                                <h3 class="title mt-3">INSTAGRAM</h3>
                                 <p>
-                                     <i class="fa fa-map-marker" aria-hidden="true"></i> &nbsp 15/3 Junction Plot 
-                                     "Shree Krishna Krupa", Rajkot - 360001.
+                                     <a href="https://www.instagram.com/happyroses_craft/"><i class="fab fa-instagram" aria-hidden="true"></i> happyroses_craft</a>
                                 </p>
                             </div>
                         </div>
@@ -269,12 +265,12 @@
                 <div class="col-md-3">
                     <div class="box">							
                         <div class="icon">
-                            <div class="image"><i class="fa fa-map-marker" aria-hidden="true"></i></div>
+                            <div class="image"><i class="fas fa-shopping-cart" aria-hidden="true"></i></div>
                             <div class="info">
-                                <h3 class="title mt-3">ADDRESS</h3>
+                                <h3 class="title mt-3">ONLINE SHOP</h3>
                                 <p>
-                                     <i class="fa fa-map-marker" aria-hidden="true"></i> &nbsp 15/3 Junction Plot 
-                                     "Shree Krishna Krupa", Rajkot - 360001.
+                                     <a href="https://tokopedia.link/koabWY6YLhb"><i class="fas fa-shopping-cart" aria-hidden="true"></i> Tokopedia
+                                     </a>
                                 </p>
                             </div>
                         </div>
@@ -438,6 +434,13 @@
 
         </div>
     </section><!-- End Portfolio Section -->
+
+    {{-- <section>
+        <div class="container">
+            <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+            <div class="elfsight-app-08411418-2752-4b66-b601-aa7260e1ecf5"></div>
+        </div>  
+    <section> --}}
 
     
 
