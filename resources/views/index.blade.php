@@ -437,6 +437,11 @@
         </div>
     </section><!-- End Portfolio Section -->
 
+    {{-- whataspp float --}}
+    <a href="https://api.whatsapp.com/send?phone=51955081075&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Varela%202." class="float" target="_blank">
+    <i class="fa fa-whatsapp my-float"></i>
+    </a>
+
     {{-- <section>
         <div class="container">
             <script src="https://apps.elfsight.com/p/platform.js" defer></script>
