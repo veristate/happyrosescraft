@@ -17,6 +17,6 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/carousel', function () {
-    return view('section_carousel');
+Route::get('/faq', function () {
+    return view('faq');
 });

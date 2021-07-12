@@ -13,7 +13,7 @@
             <div class="carousel-item active" style="background-image: url(assets/img/slide/queling1.jpg)">
                 <div class="carousel-container">
                     <div class="container">
-                        <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Sailor</span></h2>
+                        <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Happyroses_Craft</span></h2>
                         <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
                         <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
                     </div>
@@ -32,7 +32,7 @@
             </div>
 
             <!-- Slide 3 -->
-            <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg)">
+            <div class="carousel-item" style="background-image: url(assets/img/slide/art1.jpg)">
                 <div class="carousel-container">
                     <div class="container">
                         <h2 class="animate__animated animate__fadeInDown">Sequi ea ut et est quaerat</h2>
@@ -67,7 +67,7 @@
             </div>
             <div class="row content">
                 <div class="col-lg-6">
-                    <img src="assets/img/slide/slide-2.jpg" alt="" style="width: 85%">
+                    <img src="assets/img/D01_art.jpg" alt="" style="width: 85%">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0">
                     <p>
@@ -147,6 +147,8 @@
     </section>
 
     <!--End Our Product Section  -->
+
+    
     
 
     <!-- ======= Services Section ======= -->
