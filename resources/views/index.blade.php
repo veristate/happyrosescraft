@@ -62,7 +62,7 @@
         <div class="container">
             <div class="col-md-12 ">
                 <div class="titlepage">
-                   <h2>Tentang Kami</h2>
+                    <h2>Tentang Kami</h2>
                 </div>
             </div>
             <div class="row content">
@@ -95,68 +95,68 @@
         <div class="container">
             <div class="col-md-12 ">
                 <div class="titlepage">
-                   <h2>Produk Kami</h2>
+                    <h2>Produk Kami</h2>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
+                    <div class="card" style="width: 18rem; border:none;">
                         <img src="assets/img/A01_wisuda.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h4>Quiling Art Wisuda</h4>
-                          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
-                        <img src="assets/img/A01_mahar.jpg" class="card-img-top" >
+                    <div class="card" style="width: 18rem; border:none;">
+                        <img src="assets/img/A01_mahar.jpg" class="card-img-top">
                         {{-- style="width: 80%;margin-left: auto;margin-right: auto ;" --}}
                         <div class="card-body">
                             <h4>Quiling Art Mahar</h4>
-                          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
+                    <div class="card" style="width: 18rem; border:none;">
                         <img src="assets/img/C01_bahan.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h4>Bahan Craft</h4>
-                          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
+                    <div class="card" style="width: 18rem; border:none;">
                         <img src="assets/img/B01_birthday.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h4>Quiling Art Birthday</h4>
-                          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                     </div>
                 </div>
-                
+
             </div>
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <a href="index.html"><button class="btn btn-sm btn-primary mt-3">Selengkapnya</button></a>
-                </div>  
+                    <a href="index.html"><button class="btn btn-md btn-danger mt-3">Selengkapnya</button></a>
+                </div>
             </div>
         </div>
     </section>
 
     <!--End Our Product Section  -->
 
-    
-    
+
+
 
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
         <div class="container">
             <div class="col-md-12 ">
                 <div class="titlepage">
-                   <h2>Mengapa Harus Kami?</h2>
+                    <h2>Mengapa Harus Kami?</h2>
                 </div>
             </div>
 
@@ -213,30 +213,30 @@
         <div class="container second-portion">
             <div class="col-md-12 ">
                 <div class="titlepage">
-                   <h2>Kontak Kami</h2>
+                    <h2>Kontak Kami</h2>
                 </div>
             </div>
             <div class="row">
                 <!-- Boxes de Acoes -->
                 <div class="col-md-3">
-                    <div class="box">							
+                    <div class="box">
                         <div class="icon">
                             <div class="image"><i class="fa fa-envelope" aria-hidden="true"></i></div>
                             <div class="info">
                                 <h3 class="title mt-3">E-MAIL</h3>
                                 <p>
                                     <i class="fa fa-envelope" aria-hidden="true"></i> &nbsp gondhiyahardik6610@gmail.com
-                            
+
                                 </p>
-                            
+
                             </div>
                         </div>
                         <div class="space"></div>
-                    </div> 
+                    </div>
                 </div>
-                    
+
                 <div class="col-md-3">
-                    <div class="box">							
+                    <div class="box">
                         <div class="icon">
                             <div class="image"><i class="fas fa-phone-alt" aria-hidden="true"></i></div>
                             <div class="info">
@@ -247,38 +247,38 @@
                             </div>
                         </div>
                         <div class="space"></div>
-                    </div> 
+                    </div>
                 </div>
-                    
+
                 <div class="col-md-3">
-                    <div class="box">							
+                    <div class="box">
                         <div class="icon">
                             <div class="image"><i class="fab fa-instagram" aria-hidden="true"></i></div>
                             <div class="info">
                                 <h3 class="title mt-3">INSTAGRAM</h3>
                                 <p>
-                                     <a href="https://www.instagram.com/happyroses_craft/"><i class="fab fa-instagram" aria-hidden="true"></i> happyroses_craft</a>
+                                    <a href="https://www.instagram.com/happyroses_craft/"><i class="fab fa-instagram" aria-hidden="true"></i> happyroses_craft</a>
                                 </p>
                             </div>
                         </div>
                         <div class="space"></div>
-                    </div> 
+                    </div>
                 </div>
                 <div class="col-md-3">
-                    <div class="box">							
+                    <div class="box">
                         <div class="icon">
                             <div class="image"><i class="fas fa-shopping-cart" aria-hidden="true"></i></div>
                             <div class="info">
                                 <h3 class="title mt-3">ONLINE SHOP</h3>
                                 <p>
-                                     <a href="https://tokopedia.link/koabWY6YLhb"><i class="fas fa-shopping-cart" aria-hidden="true"></i> Tokopedia
-                                     </a>
+                                    <a href="https://tokopedia.link/koabWY6YLhb"><i class="fas fa-shopping-cart" aria-hidden="true"></i> Tokopedia
+                                    </a>
                                 </p>
                             </div>
                         </div>
                         <div class="space"></div>
-                    </div> 
-                </div>		  		    
+                    </div>
+                </div>
                 <!-- /Boxes de Acoes -->
     </section>
     {{-- End Section Contact Us  --}}
@@ -289,7 +289,7 @@
         <div class="container">
             <div class="col-md-12 ">
                 <div class="titlepage">
-                   <h2>Our Galery</h2>
+                    <h2>Our Galery</h2>
                 </div>
             </div>
 
@@ -444,7 +444,7 @@
         </div>  
     <section> --}}
 
-    
+
 
 </main><!-- End #main -->
 @endsection
