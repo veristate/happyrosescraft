@@ -57,6 +57,31 @@
 
 <main id="main">
 
+    <!-- ======= Clients Section ======= -->
+    <section class="clients section-bg">
+        <div class="container">
+            <div class="row d-flex justify-content-between">
+
+                <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                    <a href=""><img src="assets/img/icon/whatsapp.png" class="img-fluid" alt=""></a>
+                </div>
+
+                <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                    <a href=""><img src="assets/img/icon/gmail.png" class="img-fluid" alt=""></a>
+                </div>
+
+                <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                    <a href=""><img src="assets/img/icon/instagram.png" class="img-fluid" alt=""></a>
+                </div>
+
+                <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                    <a href=""><img src="assets/img/icon/tokopedia.png" class="img-fluid" alt=""></a>
+                </div>
+            </div>
+
+        </div>
+    </section><!-- End Clients Section -->
+
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
         <div class="container">
@@ -90,67 +115,6 @@
         </div>
     </section><!-- End About Section -->
 
-    <!-- Our Product Section -->
-    <section id="ourproduct" class="ourproduct">
-        <div class="container">
-            <div class="col-md-12 ">
-                <div class="titlepage">
-                    <h2>Produk Kami</h2>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem; border:none;">
-                        <img src="assets/img/A01_wisuda.jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h4>Quiling Art Wisuda</h4>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem; border:none;">
-                        <img src="assets/img/A01_mahar.jpg" class="card-img-top">
-                        {{-- style="width: 80%;margin-left: auto;margin-right: auto ;" --}}
-                        <div class="card-body">
-                            <h4>Quiling Art Mahar</h4>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem; border:none;">
-                        <img src="assets/img/C01_bahan.jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h4>Bahan Craft</h4>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem; border:none;">
-                        <img src="assets/img/B01_birthday.jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h4>Quiling Art Birthday</h4>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-            <div class="row">
-                <div class="col-md-12 text-center">
-                    <a href="index.html"><button class="btn btn-md btn-danger mt-3">Selengkapnya</button></a>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!--End Our Product Section  -->
-
-
-
-
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
         <div class="container">
@@ -163,126 +127,50 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="icon-box">
-                        <i class="bi bi-briefcase"></i>
-                        <h4><a href="#">Lorem Ipsum</a></h4>
-                        <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-                    </div>
-                </div>
-                <div class="col-md-6 mt-4 mt-md-0">
-                    <div class="icon-box">
-                        <i class="bi bi-card-checklist"></i>
-                        <h4><a href="#">Dolor Sitema</a></h4>
+                        <i class="bi bi-flower1"></i>
+                        <h4><a href="#">Handmade</a></h4>
                         <p>Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
                     </div>
                 </div>
                 <div class="col-md-6 mt-4 mt-md-0">
                     <div class="icon-box">
-                        <i class="bi bi-bar-chart"></i>
-                        <h4><a href="#">Sed ut perspiciatis</a></h4>
+                        <i class="bi bi-subtract"></i>
+                        <h4><a href="#">Quilling Art Pop Up</a></h4>
+                        <p>Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+                    </div>
+                </div>
+                <div class="col-md-6 mt-4 mt-md-0">
+                    <div class="icon-box">
+                        <i class="bi bi-gift"></i>
+                        <h4><a href="#">Quilling Art Pop Up Box</a></h4>
                         <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
                     </div>
                 </div>
                 <div class="col-md-6 mt-4 mt-md-0">
                     <div class="icon-box">
-                        <i class="bi bi-binoculars"></i>
-                        <h4><a href="#">Nemo Enim</a></h4>
+                        <i class="bi bi-calendar2-check"></i>
+                        <h4><a href="#">Quilling Art Birthday</a></h4>
                         <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
                     </div>
                 </div>
                 <div class="col-md-6 mt-4 mt-md-0">
                     <div class="icon-box">
-                        <i class="bi bi-brightness-high"></i>
-                        <h4><a href="#">Magni Dolore</a></h4>
-                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+                        <i class="bi bi-gift"></i>
+                        <h4><a href="#">Quilling Art Pop Up Box</a></h4>
+                        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
                     </div>
                 </div>
                 <div class="col-md-6 mt-4 mt-md-0">
                     <div class="icon-box">
-                        <i class="bi bi-calendar4-week"></i>
-                        <h4><a href="#">Eiusmod Tempor</a></h4>
-                        <p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+                        <i class="bi bi-calendar2-check"></i>
+                        <h4><a href="#">Quilling Art Birthday</a></h4>
+                        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
                     </div>
                 </div>
             </div>
 
         </div>
     </section><!-- End Services Section -->
-
-    {{-- Section Contact Us  --}}
-    <section class="kontakkami">
-        <div class="container second-portion">
-            <div class="col-md-12 ">
-                <div class="titlepage">
-                    <h2>Kontak Kami</h2>
-                </div>
-            </div>
-            <div class="row">
-                <!-- Boxes de Acoes -->
-                <div class="col-md-3">
-                    <div class="box">
-                        <div class="icon">
-                            <div class="image"><i class="fa fa-envelope" aria-hidden="true"></i></div>
-                            <div class="info">
-                                <h3 class="title mt-3">E-MAIL</h3>
-                                <p>
-                                    <i class="fa fa-envelope" aria-hidden="true"></i> &nbsp gondhiyahardik6610@gmail.com
-
-                                </p>
-
-                            </div>
-                        </div>
-                        <div class="space"></div>
-                    </div>
-                </div>
-
-                <div class="col-md-3">
-                    <div class="box">
-                        <div class="icon">
-                            <div class="image"><i class="fas fa-phone-alt" aria-hidden="true"></i></div>
-                            <div class="info">
-                                <h3 class="title mt-3">CONTACT</h3>
-                                <p>
-                                    <i class="fas fa-phone-alt" aria-hidden="true"></i> 085743591189
-                                </p>
-                            </div>
-                        </div>
-                        <div class="space"></div>
-                    </div>
-                </div>
-
-                <div class="col-md-3">
-                    <div class="box">
-                        <div class="icon">
-                            <div class="image"><i class="fab fa-instagram" aria-hidden="true"></i></div>
-                            <div class="info">
-                                <h3 class="title mt-3">INSTAGRAM</h3>
-                                <p>
-                                    <a href="https://www.instagram.com/happyroses_craft/"><i class="fab fa-instagram" aria-hidden="true"></i> happyroses_craft</a>
-                                </p>
-                            </div>
-                        </div>
-                        <div class="space"></div>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="box">
-                        <div class="icon">
-                            <div class="image"><i class="fas fa-shopping-cart" aria-hidden="true"></i></div>
-                            <div class="info">
-                                <h3 class="title mt-3">ONLINE SHOP</h3>
-                                <p>
-                                    <a href="https://tokopedia.link/koabWY6YLhb"><i class="fas fa-shopping-cart" aria-hidden="true"></i> Tokopedia
-                                    </a>
-                                </p>
-                            </div>
-                        </div>
-                        <div class="space"></div>
-                    </div>
-                </div>
-                <!-- /Boxes de Acoes -->
-    </section>
-    {{-- End Section Contact Us  --}}
-
 
     <!-- ======= Portfolio Section ======= -->
     <section id="portfolio" class="portfolio">
@@ -297,38 +185,32 @@
                 <div class="col-lg-12 d-flex justify-content-center">
                     <ul id="portfolio-flters">
                         <li data-filter="*" class="filter-active">All</li>
-                        <li data-filter=".filter-app">App</li>
-                        <li data-filter=".filter-card">Card</li>
-                        <li data-filter=".filter-web">Web</li>
+                        <li data-filter=".filter-miniatur">miniatur</li>
+                        <li data-filter=".filter-pop">frame</li>
+                        <li data-filter=".filter-card">talenan</li>
                     </ul>
                 </div>
             </div>
 
             <div class="row portfolio-container">
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-miniatur">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/miniatur/miniatur1.png" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>App 1</h4>
-                            <p>App</p>
                             <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                                <a href="assets/img/miniatur/miniatur1.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-pop">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/pop up/pop9.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>Web 3</h4>
-                            <p>Web</p>
                             <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                                <a href="assets/img/pop up/pop9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                             </div>
                         </div>
                     </div>
@@ -336,13 +218,10 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/birthday/b1.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>App 2</h4>
-                            <p>App</p>
                             <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                                <a href="assets/img/birthday/b1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                             </div>
                         </div>
                     </div>
@@ -350,13 +229,10 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/box pop up/pop2.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>Card 2</h4>
-                            <p>Card</p>
                             <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                                <a href="assets/img/box pop up/pop2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                             </div>
                         </div>
                     </div>
@@ -364,13 +240,10 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/decoration/d4.png" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>Web 2</h4>
-                            <p>Web</p>
                             <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                                <a href="assets/img/decoration/d4.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                             </div>
                         </div>
                     </div>
@@ -378,13 +251,10 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/kit/k2.png" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>App 3</h4>
-                            <p>App</p>
                             <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                                <a href="assets/img/kit/k2.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                             </div>
                         </div>
                     </div>
@@ -392,13 +262,10 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/mahar/m2.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>Card 1</h4>
-                            <p>Card</p>
                             <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                                <a href="assets/img/mahar/m2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                             </div>
                         </div>
                     </div>
@@ -406,13 +273,10 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/mahar/m2.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>Card 3</h4>
-                            <p>Card</p>
                             <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                                <a href="assets/img/mahar/m2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                             </div>
                         </div>
                     </div>
@@ -420,13 +284,21 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/wedding/w2.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>Web 3</h4>
-                            <p>Web</p>
                             <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                                <a href="assets/img/wedding/w2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                    <div class="portfolio-wrap">
+                        <img src="assets/img/wisuda/w11.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <div class="portfolio-links">
+                                <a href="assets/img/wisuda/w11.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                             </div>
                         </div>
                     </div>
@@ -437,10 +309,7 @@
         </div>
     </section><!-- End Portfolio Section -->
 
-    {{-- whataspp float --}}
-    <a href="https://api.whatsapp.com/send?phone=51955081075&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Varela%202." class="float" target="_blank">
-    <i class="fa fa-whatsapp my-float"></i>
-    </a>
+
 
     {{-- <section>
         <div class="container">

@@ -48,34 +48,25 @@
     <header id="header" class="fixed-top d-flex align-items-center">
         <div class="container d-flex align-items-center">
 
-            <h1 class="logo me-auto"><a href="index.html">Happyroses_Craft</a></h1>
+            <h1 class="logo me-auto"><a href="/">Happyroses_Craft</a></h1>
             <!-- Uncomment below if you prefer to use an image logo -->
             <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
             <nav id="navbar" class="navbar">
                 <ul>
-                    <li><a href="index.html" class="active">Home</a></li>
+                    <li><a href="index.html" class="active"></a></li>
 
-                    <li class="dropdown"><a href="#"><span>Product</span> <i class="bi bi-chevron-down"></i></a>
+                    <li class="dropdown"><a href="/product"><span>Product</span> <i class="bi bi-chevron-right"></i></a>
                         <ul>
-                            <li><a href="about.html">Lastest Product</a></li>
-                            <li><a href="team.html">Pre-order</a></li>
-                            <li><a href="testimonials.html">Ready-stock</a></li>
-
-                            <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
-                                <ul>
-                                    <li><a href="#">Deep Drop Down 1</a></li>
-                                    <li><a href="#">Deep Drop Down 2</a></li>
-                                    <li><a href="#">Deep Drop Down 3</a></li>
-                                    <li><a href="#">Deep Drop Down 4</a></li>
-                                    <li><a href="#">Deep Drop Down 5</a></li>
-                                </ul>
-                            </li>
+                            <li><a href="#">Wisuda</a></li>
+                            <li><a href="#">Mahar</a></li>
+                            <li><a href="#">Ulang Tahun</a></li>
                         </ul>
                     </li>
-                    <li><a href="blog.html">Contact</a></li>
 
-                    <li><a href="contact.html">FAQ</a></li>
+                    <li><a href="/contact">Contact</a></li>
+
+                    <li><a href="/faq">FAQ</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->
@@ -91,7 +82,7 @@
             <div class="container">
                 <div class="row">
 
-                    <div class="col-lg-3 col-md-6">
+                    <div class="col-lg-4 col-md-6">
                         <div class="footer-info">
                             <h3>Happyroses_Craft</h3>
                             <p>
@@ -110,7 +101,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-2 col-md-6 footer-links">
+                    <div class="col-lg-4 col-md-6 footer-links">
                         <h4>Useful Links</h4>
                         <ul>
                             <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
@@ -121,7 +112,7 @@
                         </ul>
                     </div>
 
-                    <div class="col-lg-3 col-md-6 footer-links">
+                    <div class="col-lg-4 col-md-6 footer-links">
                         <h4>Our Services</h4>
                         <ul>
                             <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
