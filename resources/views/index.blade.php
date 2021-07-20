@@ -63,19 +63,15 @@
             <div class="row d-flex justify-content-between">
 
                 <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                    <a href=""><img src="assets/img/icon/whatsapp.png" class="img-fluid" alt=""></a>
+                    <a href="https://api.whatsapp.com/send?phone=6285743591189&text=Halo,%20Dengan%20Happyroses_craft%20apakah%20sedang%20menerima%20pesanan%20?"><img src="assets/img/icon/whatsapp.png" class="img-fluid" alt=""></a>
                 </div>
 
                 <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                    <a href=""><img src="assets/img/icon/gmail.png" class="img-fluid" alt=""></a>
+                    <a href="https://www.instagram.com/happyroses_craft/"><img src="assets/img/icon/instagram.png" class="img-fluid" alt=""></a>
                 </div>
 
                 <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                    <a href=""><img src="assets/img/icon/instagram.png" class="img-fluid" alt=""></a>
-                </div>
-
-                <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                    <a href=""><img src="assets/img/icon/tokopedia.png" class="img-fluid" alt=""></a>
+                    <a href="https://www.tokopedia.com/happyrosescraft?utm_source=Android&utm_medium=Share&utm_campaign=Shop%20Share&_branch_match_id=937063532823277024"><img src="assets/img/icon/tokopedia.png" class="img-fluid" alt=""></a>
                 </div>
             </div>
 
