@@ -46,7 +46,7 @@
                             <div class="phone">
                                 <i class="bi bi-phone"></i>
                                 <h4>Kontak:</h4>
-                                <p>085743591189</p>
+                                <p>+6285743591189</p>
                             </div>
                         </div>
                     </div>

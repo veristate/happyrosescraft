@@ -173,7 +173,7 @@
         <div class="container">
             <div class="col-md-12 ">
                 <div class="titlepage">
-                    <h2>Our Galery</h2>
+                    <h2>Our Gallery</h2>
                 </div>
             </div>
 
