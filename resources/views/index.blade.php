@@ -181,21 +181,21 @@
                 <div class="col-lg-12 d-flex justify-content-center">
                     <ul id="portfolio-flters">
                         <li data-filter="*" class="filter-active">All</li>
-                        <li data-filter=".filter-miniatur">miniatur</li>
-                        <li data-filter=".filter-pop">frame</li>
-                        <li data-filter=".filter-card">talenan</li>
+                        <li data-filter=".filter-Qw">Quilling Wisuda</li>
+                        <li data-filter=".filter-Qb">Quilling Birthday</li>
+                        <li data-filter=".filter-Qwg">Quilling Wedding-Gift</li>
                     </ul>
                 </div>
             </div>
 
             <div class="row portfolio-container">
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-miniatur">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-Qw">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/miniatur/miniatur1.png" class="img-fluid" alt="">
+                        <img src="assets/img/birthday/b1.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <div class="portfolio-links">
-                                <a href="assets/img/miniatur/miniatur1.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                                <a href="assets/img/birthday/b1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                             </div>
                         </div>
                     </div>
