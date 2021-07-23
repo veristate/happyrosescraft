@@ -192,6 +192,39 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-Qw">
                     <div class="portfolio-wrap">
+                        <img src="assets/img/wisuda/w10alt.png" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <div class="portfolio-links">
+                                <a href="assets/img/wisuda/w10alt.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-Qw">
+                    <div class="portfolio-wrap">
+                        <img src="assets/img/wisuda/w7.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <div class="portfolio-links">
+                                <a href="assets/img/wisuda/w7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-Qw">
+                    <div class="portfolio-wrap">
+                        <img src="assets/img/wisuda/w8.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <div class="portfolio-links">
+                                <a href="assets/img/wisuda/w8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-Qb">
+                    <div class="portfolio-wrap">
                         <img src="assets/img/birthday/b1.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <div class="portfolio-links">
@@ -201,84 +234,40 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-pop">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-Qb">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/pop up/pop9.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/birthday/b2.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <div class="portfolio-links">
-                                <a href="assets/img/pop up/pop9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                                <a href="assets/img/birthday/b2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-Qb">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/birthday/b1.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/birthday/b3.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <div class="portfolio-links">
-                                <a href="assets/img/birthday/b1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                                <a href="assets/img/birthday/b3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-Qwg">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/box pop up/pop2.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/wedding/w1.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <div class="portfolio-links">
-                                <a href="assets/img/box pop up/pop2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                                <a href="assets/img/wedding/w1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <div class="portfolio-wrap">
-                        <img src="assets/img/decoration/d4.png" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <div class="portfolio-links">
-                                <a href="assets/img/decoration/d4.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <div class="portfolio-wrap">
-                        <img src="assets/img/kit/k2.png" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <div class="portfolio-links">
-                                <a href="assets/img/kit/k2.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <div class="portfolio-wrap">
-                        <img src="assets/img/mahar/m2.jpg" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <div class="portfolio-links">
-                                <a href="assets/img/mahar/m2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <div class="portfolio-wrap">
-                        <img src="assets/img/mahar/m2.jpg" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <div class="portfolio-links">
-                                <a href="assets/img/mahar/m2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-Qwg">
                     <div class="portfolio-wrap">
                         <img src="assets/img/wedding/w2.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
@@ -289,20 +278,17 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-Qwg">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/wisuda/w11.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/wedding/w3.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <div class="portfolio-links">
-                                <a href="assets/img/wisuda/w11.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                                <a href="assets/img/wedding/w3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                             </div>
                         </div>
                     </div>
                 </div>
 
-            </div>
-
-        </div>
     </section><!-- End Portfolio Section -->
 
 
