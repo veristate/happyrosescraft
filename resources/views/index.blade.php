@@ -3,17 +3,20 @@
 @section('content')
 <!-- ======= Hero Section ======= -->
 <section id="hero">
-    <div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
+    <div id="heroCarousel" data-bs-interval="42000" class="carousel slide carousel-fade" data-bs-ride="carousel">
 
         <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
 
         <div class="carousel-inner" role="listbox">
 
             <!-- Slide 1 -->
-            <div class="carousel-item active" style="background-image: url(assets/img/slide/queling1.jpg)">
+            <div class="carousel-item active">
                 <div class="carousel-container">
+                <video id="videoBG" poster="poster.JPG" autoplay muted loop>
+                    <source src="assets/video/Quilling.mp4" type="video/mp4">
+                    </video>
                     <div class="container">
-                        <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Happyroses_Craft</span></h2>
+                        <h3 class="animate__animated animate__fadeInDown" style="color:White;">Welcome to <span>Happyroses_Craft</span></h3>
                         <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
                         <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
                     </div>
@@ -247,10 +250,10 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-Qb">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/birthday/b3.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/birthday/b4.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <div class="portfolio-links">
-                                <a href="assets/img/birthday/b3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                                <a href="assets/img/birthday/b4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                             </div>
                         </div>
                     </div>
@@ -269,10 +272,10 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-Qwg">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/wedding/w2.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/wedding/w4.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <div class="portfolio-links">
-                                <a href="assets/img/wedding/w2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                                <a href="assets/img/wedding/w4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                             </div>
                         </div>
                     </div>
