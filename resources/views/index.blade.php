@@ -17,30 +17,30 @@
                     </video>
                     <div class="container">
                         <h3 class="animate__animated animate__fadeInDown" style="color:White;">Welcome to <span>Happyroses_Craft</span></h3>
-                        <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-                        <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+                        <!--<p class="animate__animated animate__fadeInUp"></p>-->
+                        <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Learn More</a>
                     </div>
                 </div>
             </div>
 
             <!-- Slide 2 -->
-            <div class="carousel-item" style="background-image: url(assets/img/slide/queling2.jpg)">
+            <div class="carousel-item" style="background-image: url(assets/img/birthday/b2.jpg)">
                 <div class="carousel-container">
                     <div class="container">
-                        <h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2>
-                        <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-                        <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+                        <h2 class="animate__animated animate__fadeInDown">Tempat terbaik, untuk mendapatkan kado yang unik</h2>
+                        <p class="animate__animated animate__fadeInUp">Happyroses_Craft berkerja secara profesional untuk memberikan kado terbaik kepada pelanggan.</p>
+                        <a href="#portfolio" class="btn-get-started animate__animated animate__fadeInUp scrollto">Our Gallery</a>
                     </div>
                 </div>
             </div>
 
             <!-- Slide 3 -->
-            <div class="carousel-item" style="background-image: url(assets/img/slide/art1.jpg)">
+            <div class="carousel-item" style="background-image: url(assets/img/wisuda/w10.jpg)">
                 <div class="carousel-container">
                     <div class="container">
-                        <h2 class="animate__animated animate__fadeInDown">Sequi ea ut et est quaerat</h2>
-                        <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-                        <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+                        <h2 class="animate__animated animate__fadeInDown">Harga, Kualitas, dan Servis terbaik</h2>
+                        <p class="animate__animated animate__fadeInUp">Dapatkan kado terbaik sekarang juga!</p>
+                        <a href="https://www.tokopedia.com/happyrosescraft?utm_source=Android&utm_medium=Share&utm_campaign=Shop%20Share&_branch_match_id=937063532823277024" class="btn-get-started animate__animated animate__fadeInUp scrollto">Order Now</a>
                     </div>
                 </div>
             </div>
