@@ -10,15 +10,10 @@
         <div class="carousel-inner" role="listbox">
 
             <!-- Slide 1 -->
-            <div class="carousel-item active">
+            <div class="carousel-item active" style="background-image: url(assets/img/wedding/w1.jpg)">
                 <div class="carousel-container">
-                <video id="videoBG" poster="poster.JPG" autoplay muted loop>
-                    <source src="assets/video/Quilling.mp4" type="video/mp4">
-                    </video>
-                    <div class="container">
-                        <h3 class="animate__animated animate__fadeInDown" style="color:White;">Welcome to <span>Happyroses_Craft</span></h3>
-                        <!--<p class="animate__animated animate__fadeInUp"></p>-->
-                        <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Learn More</a>
+                    <div class="container textf">
+                        <h2 class="animate__animated animate__fadeInDown" style="color:White;">Welcome to <span>Happyroses_Craft</span></h2>
                     </div>
                 </div>
             </div>
@@ -294,8 +289,7 @@
 
     </section><!-- End Portfolio Section -->
 
-
-
+    
     {{-- <section>
         <div class="container">
             <script src="https://apps.elfsight.com/p/platform.js" defer></script>

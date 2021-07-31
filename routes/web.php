@@ -28,3 +28,7 @@ Route::get('/contact', function () {
 Route::get('/product', function () {
     return view('product');
 });
+
+Route::get('/tutorial', function () {
+    return view('tutorial');
+});
