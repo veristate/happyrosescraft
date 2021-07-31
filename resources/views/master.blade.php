@@ -58,6 +58,7 @@
 
                     <li class="dropdown"><a href="/product"><span>Product</span> <i class="bi bi-chevron-right"></i></a>
                         <ul>
+                            <li><a href="/product">All Product</a></li>
                             <li><a href="#">Wisuda</a></li>
                             <li><a href="#">Mahar</a></li>
                             <li><a href="#">Ulang Tahun</a></li>
