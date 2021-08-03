@@ -86,7 +86,7 @@
             </div>
             <div class="row content">
                 <div class="col-lg-6">
-                    <img src="assets/img/D01_art.jpg" alt="" style="width: 85%">
+                    <img src="assets/img/icon/tes1.jpg" alt="" style="width: 100%">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0">
                     <p>
@@ -122,42 +122,42 @@
                 <div class="col-md-6">
                     <div class="icon-box">
                         <i class="bi bi-flower1"></i>
-                        <h4><a href="#">Handmade</a></h4>
+                        <h4><a>Handmade</a></h4>
                         <p>Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
                     </div>
                 </div>
                 <div class="col-md-6 mt-4 mt-md-0">
                     <div class="icon-box">
                         <i class="bi bi-subtract"></i>
-                        <h4><a href="#">Quilling Art Pop Up</a></h4>
+                        <h4><a>Quilling Art Pop Up</a></h4>
                         <p>Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
                     </div>
                 </div>
                 <div class="col-md-6 mt-4 mt-md-0">
                     <div class="icon-box">
                         <i class="bi bi-gift"></i>
-                        <h4><a href="#">Quilling Art Pop Up Box</a></h4>
+                        <h4><a>Quilling Art Pop Up Box</a></h4>
                         <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
                     </div>
                 </div>
                 <div class="col-md-6 mt-4 mt-md-0">
                     <div class="icon-box">
                         <i class="bi bi-calendar2-check"></i>
-                        <h4><a href="#">Quilling Art Birthday</a></h4>
+                        <h4><a>Quilling Art Birthday</a></h4>
                         <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
                     </div>
                 </div>
                 <div class="col-md-6 mt-4 mt-md-0">
                     <div class="icon-box">
                         <i class="bi bi-gift"></i>
-                        <h4><a href="#">Quilling Art Pop Up Box</a></h4>
+                        <h4><a>Quilling Art Pop Up Box</a></h4>
                         <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
                     </div>
                 </div>
                 <div class="col-md-6 mt-4 mt-md-0">
                     <div class="icon-box">
                         <i class="bi bi-calendar2-check"></i>
-                        <h4><a href="#">Quilling Art Birthday</a></h4>
+                        <h4><a>Quilling Art Birthday</a></h4>
                         <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
                     </div>
                 </div>
