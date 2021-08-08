@@ -88,21 +88,17 @@
                 <div class="col-lg-6">
                     <img src="assets/img/icon/tes1.jpg" alt="" style="width: 100%">
                 </div>
-                <div class="col-lg-6 pt-4 pt-lg-0">
-                    <p>
-                        Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                        culpa qui officia deserunt mollit anim id est laborum
+                <div class="col-lg-6 pt-4 pt-lg-0" >
+                    <p style="text-align:justify;">
+                        Happyroses_Craft sudah berdiri dari juni 2017, Happyroses_Craft merupakan produk papercraft yang diproduksi
+                        secara rumahan. Setiap produk ataupun karya yang dibuat oleh kami merupakan hasil buatan tangan yang dibuat secara
+                        detil dan teliti, Sehingga setiap produk yang dibuat oleh kami merupakan produk yang sangat terjaga kualitasnya.
                     </p>
                     <ul>
-                        <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequa</li>
-                        <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
-                        <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in</li>
+                        <li><i class="ri-check-double-line"></i> Kualitas Tiap Produk Terjaga</li>
+                        <li><i class="ri-check-double-line"></i> Order Sesuai Keinginan</li>
+                        <li><i class="ri-check-double-line"></i> Sangat Cocok Dijadikan Sebagai Hadiah</li>
                     </ul>
-                    <p class="fst-italic">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                        magna aliqua.
-                    </p>
                 </div>
             </div>
 
@@ -122,43 +118,43 @@
                 <div class="col-md-6">
                     <div class="icon-box">
                         <i class="bi bi-flower1"></i>
-                        <h4><a>Handmade</a></h4>
-                        <p>Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+                        <h4><a>Handmade and High Quality</a></h4>
+                        <p>Produk yang dibuat merupakan produk buatan tangan yang dibuat secara mendetil</p>
                     </div>
                 </div>
                 <div class="col-md-6 mt-4 mt-md-0">
                     <div class="icon-box">
-                        <i class="bi bi-subtract"></i>
-                        <h4><a>Quilling Art Pop Up</a></h4>
-                        <p>Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
-                    </div>
-                </div>
-                <div class="col-md-6 mt-4 mt-md-0">
-                    <div class="icon-box">
-                        <i class="bi bi-gift"></i>
-                        <h4><a>Quilling Art Pop Up Box</a></h4>
-                        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
-                    </div>
-                </div>
-                <div class="col-md-6 mt-4 mt-md-0">
-                    <div class="icon-box">
-                        <i class="bi bi-calendar2-check"></i>
-                        <h4><a>Quilling Art Birthday</a></h4>
-                        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                        <i class="bi bi-hand-thumbs-up"></i>
+                        <h4><a>Rekomendasi sebagai Hadiah</a></h4>
+                        <p>Karya yang dibuat oleh Happyroses_Craft sangat direkomendasikan untuk diberikan sebagai kado/hadiah</p>
                     </div>
                 </div>
                 <div class="col-md-6 mt-4 mt-md-0">
                     <div class="icon-box">
                         <i class="bi bi-gift"></i>
-                        <h4><a>Quilling Art Pop Up Box</a></h4>
-                        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+                        <h4><a>Quilling Art Wedding</a></h4>
+                        <p>Quilling Art Wedding sangat cocok diberikan kepada pasangan yang baru saja menikah</p>
                     </div>
                 </div>
                 <div class="col-md-6 mt-4 mt-md-0">
                     <div class="icon-box">
-                        <i class="bi bi-calendar2-check"></i>
+                        <i class="bi bi-gift"></i>
                         <h4><a>Quilling Art Birthday</a></h4>
-                        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                        <p>Berikan Quilling Art Birthday sebagai hadiah ulang tahun orang yang kamu sayangi!</p>
+                    </div>
+                </div>
+                <div class="col-md-6 mt-4 mt-md-0">
+                    <div class="icon-box">
+                        <i class="bi bi-gift"></i>
+                        <h4><a>Quilling Art Wisuda</a></h4>
+                        <p>Terdapat juga Quilling Art Wisuda sangat cocok untuk diberikan mahasiswa yang baru lulus </p>
+                    </div>
+                </div>
+                <div class="col-md-6 mt-4 mt-md-0">
+                    <div class="icon-box">
+                        <i class="bi bi-cart-check-fill"></i>
+                        <h4><a  href="https://api.whatsapp.com/send?phone=6285743591189&text=Halo,%20Dengan%20Happyroses_craft%20apakah%20sedang%20menerima%20pesanan%20?" >Order Sekarang</a></h4>
+                        <p>Order sekarang juga, dan segera dapatkan produk Happyroses_craft</p>
                     </div>
                 </div>
             </div>
