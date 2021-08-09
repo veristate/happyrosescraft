@@ -23,7 +23,7 @@
         <div class="container">
 
             <div>
-                <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJIZU9FJfmaC4Ry-yysJTIgcA&key=AIzaSyCinEDr8Op4XTLRmBqpVqlP4dO-n36o-K8" frameborder="0" allowfullscreen></iframe>
+                <iframe style="border:0; width: 100%; height: 270px;" src="https://maps.google.com/maps?q=arjasari&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" allowfullscreen></iframe>
             </div>
 
             <div class="row mt-5">

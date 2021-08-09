@@ -10,7 +10,7 @@
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon">
+    <link href="assets/img/icon/fav.png" rel="icon">
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
@@ -56,14 +56,7 @@
                 <ul>
                     <li><a href="index.html" class="active"></a></li>
 
-                    <li class="dropdown"><a href="/product"><span>Product</span> <i class="bi bi-chevron-right"></i></a>
-                        <ul>
-                            <li><a href="/product">All Product</a></li>
-                            <li><a href="#">Wisuda</a></li>
-                            <li><a href="#">Mahar</a></li>
-                            <li><a href="#">Ulang Tahun</a></li>
-                        </ul>
-                    </li>
+                    <li><a href="/product">Product</a></li>
 
                     <li><a href="/tutorial">Tutorial</a></li>
 
@@ -89,17 +82,15 @@
                         <div class="footer-info">
                             <h3>Happyroses_Craft</h3>
                             <p>
-                                A108 Adam Street <br>
-                                NY 535022, USA<br><br>
-                                <strong>Phone:</strong> +1 5589 55488 55<br>
-                                <strong>Email:</strong> info@example.com<br>
+                                Arjasari, Kab. Bandung, <br>
+                                Jawa Barat, <br>
+                                40379, Indonesia<br><br>
+                                <strong>Phone:</strong> +6285743591189<br>
                             </p>
                             <div class="social-links mt-3">
-                                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                                <a href="https://api.whatsapp.com/send?phone=6285743591189&text=Halo,%20Dengan%20Happyroses_craft%20apakah%20sedang%20menerima%20pesanan%20?" target="_blank" class="twitter"><i class="bx bx-phone"></i></a>
+                                <a href="https://www.tokopedia.com/happyrosescraft?utm_source=Android&utm_medium=Share&utm_campaign=Shop%20Share&_branch_match_id=937063532823277024" target="_blank" class="facebook"><i class="bx bx-cart"></i></a>
+                                <a href="https://www.instagram.com/happyroses_craft/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
                             </div>
                         </div>
                     </div>

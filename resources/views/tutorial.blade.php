@@ -51,6 +51,11 @@
                 </a>
             </div>
         </div>
+        <div class="row mt-2">
+            <div class="col-md-12 text-center">
+                <a href="https://youtube.com/channel/UCAKhPmnHqzUu0xMDqzjAbig" target="_blank"><button class="btn btn-md btn-danger mt-3">Lihat tutorial lainnya di Youtube kami</button></a>
+            </div>
+        </div>
     </div>
 <section>
 @endsection

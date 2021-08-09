@@ -14,6 +14,7 @@
                 <div class="carousel-container">
                     <div class="container textf">
                         <h2 class="animate__animated animate__fadeInDown" style="color:White;">Welcome to <span>Happyroses_Craft</span></h2>
+                        <p>selamat datang di website kami, happyroses_craft menyediakan jasa pembuatan kado dengan teknik Quiling</p>
                     </div>
                 </div>
             </div>
@@ -24,7 +25,7 @@
                     <div class="container">
                         <h2 class="animate__animated animate__fadeInDown">Tempat terbaik, untuk mendapatkan kado yang unik</h2>
                         <p class="animate__animated animate__fadeInUp">Happyroses_Craft berkerja secara profesional untuk memberikan kado terbaik kepada pelanggan.</p>
-                        <a href="#portfolio" class="btn-get-started animate__animated animate__fadeInUp scrollto">Our Gallery</a>
+                        <a href="/product" class="btn-get-started animate__animated animate__fadeInUp scrollto">Our Product</a>
                     </div>
                 </div>
             </div>
@@ -86,7 +87,7 @@
             </div>
             <div class="row content">
                 <div class="col-lg-6">
-                    <img src="assets/img/icon/tes1.jpg" alt="" style="width: 100%">
+                    <img src="assets/img/icon/tes1.jpg" alt="" style="width: 90%">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0" >
                     <p style="text-align:justify;">
@@ -154,7 +155,7 @@
                     <div class="icon-box">
                         <i class="bi bi-cart-check-fill"></i>
                         <h4><a  href="https://api.whatsapp.com/send?phone=6285743591189&text=Halo,%20Dengan%20Happyroses_craft%20apakah%20sedang%20menerima%20pesanan%20?" >Order Sekarang</a></h4>
-                        <p>Order sekarang juga, dan segera dapatkan produk Happyroses_craft</p>
+                        <p>Tunggu apalagi ayo order sekarang juga, dan segera dapatkan produk menarik dari Happyroses_craft</p>
                     </div>
                 </div>
             </div>
