@@ -87,7 +87,7 @@
             </div>
             <div class="row content">
                 <div class="col-lg-6">
-                    <img src="assets/img/icon/tes1.jpg" alt="" style="width: 90%">
+                    <img src="assets/img/icon/logo client.png" alt="" style="width: 90%">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0" >
                     <p style="text-align:justify;">
